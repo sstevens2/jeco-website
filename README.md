@@ -10,9 +10,21 @@ This paragraph is sperated from the previous oe by a blank line.
 Link breaks  (double space)
 are caused by two tailing spaces at the end of a line.
 
-[carpentries Webpage](http://carpentries.org)
+## More info on the lesson
+You can find this lesson [here](https://carpentries-incubator.github.io/building-websites-with-jekyll-and-github-or-gitlab/).
 
+[carpentries Webpage](http://carpentries.org)
+[markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images)
 ### Carpentries Lession Programs: 
 - Software Carpnetry
 - Data Carpentry
 - Library Carpentry 
+
+### 4 reason you should know 
+
+1. xdd
+2. x
+3. xx
+4. xxxx ~xxZZ~ 
+
+![LOGO](https://github.com/carpentries/carpentries.org/raw/main/images/TheCarpentries-opengraph.png) 
