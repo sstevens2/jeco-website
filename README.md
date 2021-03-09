@@ -27,4 +27,4 @@ You can find this lesson [here](https://carpentries-incubator.github.io/building
 3. xx
 4. xxxx ~xxZZ~ 
 
-![LOGO](https://github.com/carpentries/carpentries.org/raw/main/images/TheCarpentries-opengraph.png) 
+![LOGO](https://github.com/carpentries/carpentries.org/raw/main/images/TheCarpentries-opengraph.png | width=100) 
