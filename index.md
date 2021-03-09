@@ -4,3 +4,4 @@
 
 ## Description
 This research project us about teaching you how to create websites 
+More details about the project are available from the [About page](about) 
