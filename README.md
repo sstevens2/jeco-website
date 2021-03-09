@@ -28,3 +28,5 @@ You can find this lesson [here](https://carpentries-incubator.github.io/building
 4. We ~~don't~~ use it in The Carpentries
 
 ![LOGO](https://github.com/carpentries/carpentries.org/raw/main/images/TheCarpentries-opengraph.png =250x250) 
+
+[image resize web](https://gist.github.com/uupaa/f77d2bcf4dc7a294d109)
