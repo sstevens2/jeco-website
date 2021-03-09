@@ -22,9 +22,9 @@ You can find this lesson [here](https://carpentries-incubator.github.io/building
 
 ### 4 reason you should know 
 
-1. xdd
-2. x
-3. xx
-4. xxxx ~xxZZ~ 
+1. Less formatting than HTML
+2. Easy to read even with formatting
+3. Commonly used for websites and software development
+4. We ~~don't~~ use it in The Carpentries
 
-![LOGO](https://github.com/carpentries/carpentries.org/raw/main/images/TheCarpentries-opengraph.png | width=100) 
+![LOGO](https://github.com/carpentries/carpentries.org/raw/main/images/TheCarpentries-opengraph.png =250x250) 
