@@ -13,4 +13,4 @@ You can cite the project as:
 
 ## Contact us
 - Email: [{{ site.mail }}](mailto: {{ site.mail }})
-- Twitter:
+- Twitter: [ {{ site.twitter }} ]({{ site.twitter}})
