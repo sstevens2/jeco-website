@@ -2,6 +2,7 @@
 lesson- example: "https://carpentries.github.io/lesson-example/" 
 ---
 
+![Group Web banner](./image/site_banner.png)
 
 
 # {{ site.title }}
@@ -21,4 +22,3 @@ See more [example]( {{ page.lessson-example }})
 
 
 
-![Group Web banner](./image/site_banner.png)
