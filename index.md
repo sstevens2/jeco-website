@@ -2,7 +2,7 @@
 lesson- example: "https://carpentries.github.io/lesson-example/" 
 ---
 
-[![Group Web banner](./image/site_banner.png)](https://ufangyang.github.io/jeco-website/
+[![Group Web banner](./image/site_banner.png)](https://ufangyang.github.io/jeco-website/)
 
 
 # {{ site.title }}
