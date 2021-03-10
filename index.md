@@ -4,7 +4,7 @@ lesson- example: "https://carpentries.github.io/lesson-example/"
 
 <!-- [![Group Web banner](./image/site_banner.png)](https://github.com/ufangYang/jeco-website)-->
 
-{ % includ banner.md % }
+{ % includes banner.md % }
 
 # {{ site.title }}
 
