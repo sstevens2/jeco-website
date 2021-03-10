@@ -1,7 +1,7 @@
 ---
 lesson- example: "https://carpentries.github.io/lesson-example/" 
 layout: default
-title: ...
+title: "our index page"
 ---
 
 <!-- [![Group Web banner](./image/site_banner.png)](https://github.com/ufangYang/jeco-website)-->
