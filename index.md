@@ -4,7 +4,7 @@ lesson- example: "https://carpentries.github.io/lesson-example/"
 
 <!-- [![Group Web banner](./image/site_banner.png)](https://github.com/ufangYang/jeco-website)-->
 
-{% include banner.md %}
+{% includes banner.md %}
 
 # {{ site.title }}
 
@@ -18,7 +18,7 @@ More details about the project are available from the [About page](about.md)
 See more [example]( {{ page.lessson-example }})
 
 
-{% include contact.md %}
+{% includes contact.md %}
 
 <!-- [About page link](https://github.com/ufangYang/jeco-website/blob/main/about.md) -->
 
