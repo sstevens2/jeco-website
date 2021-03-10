@@ -19,7 +19,7 @@ More details about the project are available from the [About page](about.md)
 See more [example]( {{ page.lessson-example }})
 
 
-{% includes contact.md %}
+
 
 <!-- [About page link](https://github.com/ufangYang/jeco-website/blob/main/about.md) -->
 
