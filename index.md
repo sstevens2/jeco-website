@@ -1,6 +1,6 @@
 ---
 lesson- example: "https://carpentries.github.io/lesson-example/" 
-layout: page
+layout: default
 ---
 
 <!-- [![Group Web banner](./image/site_banner.png)](https://github.com/ufangYang/jeco-website)-->
