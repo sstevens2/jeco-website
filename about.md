@@ -12,7 +12,7 @@ XXX
 ## Team
 
 {% for team_member in site.team_members %}
-- **Nanem:** {{ team_member.name }}, **role:** {{ team_member.role }}
+- **Name:** {{ team_member.name }}, **role:** {{ team_member.role }}
 {% endfor %}
 
 ## Cite us
