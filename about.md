@@ -3,9 +3,6 @@ layout: page
 title: About
 ---
 
-
-# About
-
 ## Project
 {{ site.description }}
 
