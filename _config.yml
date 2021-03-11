@@ -12,5 +12,5 @@ team_members: [
 ]
 
 collecttion:
-    - posts:
+    -posts:
         output: true
