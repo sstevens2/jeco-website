@@ -10,3 +10,7 @@ team_members: [
     {name: "Albert Hamilton", role: "editor", start_date: "2017-12-01"},
     {name: "Alice Daucet", role: "editor", start_date: "2017-12-01"}
 ]
+
+collecttion:
+    - posts:
+        output: true
