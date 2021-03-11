@@ -8,7 +8,7 @@ title: "Learning how to build wensite with Jekyll"
 ## Description
 {{ site.description }}
 
-{{% assign lead = site.team_memebers | where: "role", "project lead" | first %}
+{% assign lead = site.team_memebers | where: "role", "project lead" | first %}
 The project is led by {{ lead.name }}.
 [See our full team](/about#team)
 
