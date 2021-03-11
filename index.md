@@ -1,11 +1,9 @@
 ---
 lesson- example: "https://carpentries.github.io/lesson-example/" 
-layout: page
+layout: default
+title: "Learning how to build wensite with Jekyll"
 ---
 
-# {{ site.title }}
-
-<!-- comment here-->
 
 ## Description
 {{ site.description }}
@@ -16,10 +14,6 @@ See more [example]( {{ page.lessson-example }})
 
 
 
-
-<!-- [About page link](https://github.com/ufangYang/jeco-website/blob/main/about.md) -->
-
-<!-- [about]('/about') links to the github repo -->
 
 
 
